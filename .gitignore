@@ -1,0 +1,7 @@
+draft.py
+data/*
+.ipynb_checkpoints/*
+.virtual_documents/*
+Parkinson Prediction.ipynb
+Dr. Semmelweis and the effect of handwashing.ipynb
+Detecting fake news.ipynb
