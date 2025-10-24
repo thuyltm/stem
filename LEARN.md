@@ -4,4 +4,4 @@
 4. Machine Learning Concept with sklearn
 5. ififd
 6. bag, boost, stack
-7. AGI
+7. opencv
